@@ -147,7 +147,7 @@
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform" Version="6.1.5" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\src\SayHello\SayHello.csproj">
+    <ProjectReference Include="..\..\SayHello\SayHello.csproj">
       <Project>{b5b6ad6d-d799-459e-963b-07b7435b2691}</Project>
       <Name>SayHello</Name>
     </ProjectReference>

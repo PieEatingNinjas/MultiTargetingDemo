@@ -5,13 +5,13 @@ VisualStudioVersion = 15.0.28306.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayHello", "SayHello\SayHello.csproj", "{B5B6AD6D-D799-459E-963B-07B7435B2691}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayHelloTest.Android", "..\SayHelloTest\SayHelloTest.Android\SayHelloTest.Android.csproj", "{810F16D6-474F-4359-A5E0-D7EBD970A489}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayHelloTest.Android", "Test\SayHelloTest.Android\SayHelloTest.Android.csproj", "{810F16D6-474F-4359-A5E0-D7EBD970A489}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayHelloTest.iOS", "..\SayHelloTest\SayHelloTest.iOS\SayHelloTest.iOS.csproj", "{6375670B-3C89-42ED-93FF-04D5C7F72088}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayHelloTest.iOS", "Test\SayHelloTest.iOS\SayHelloTest.iOS.csproj", "{6375670B-3C89-42ED-93FF-04D5C7F72088}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayHelloTest.UWP", "..\SayHelloTest\SayHelloTest.UWP\SayHelloTest.UWP.csproj", "{1D4928B8-3642-4C38-B995-F456211ED2D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayHelloTest.UWP", "Test\SayHelloTest.UWP\SayHelloTest.UWP.csproj", "{1D4928B8-3642-4C38-B995-F456211ED2D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayHelloTest", "..\SayHelloTest\SayHelloTest\SayHelloTest.csproj", "{4FD21A99-B436-44A4-9D2A-42807F2B7D9B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayHelloTest", "Test\SayHelloTest\SayHelloTest.csproj", "{4FD21A99-B436-44A4-9D2A-42807F2B7D9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
